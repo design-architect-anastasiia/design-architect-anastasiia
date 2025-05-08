@@ -49,4 +49,6 @@
 
 ### 🤝 Let's connect
 
+[@design-architect-anastasiia](https://github.com/design-architect-anastasiia/)
+
 Feel free to reach out if you're interested in architecture, 3D design, or collaborating on architectural projects!
